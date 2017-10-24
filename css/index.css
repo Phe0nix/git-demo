@@ -7,3 +7,6 @@ This is the css file
 *:before {
     box-sizing: border-box;
 }
+h1{
+    font-size: 30px;
+}
