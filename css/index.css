@@ -1,3 +1,9 @@
 /*
 This is the css file
 */
+
+*,
+*:after,
+*:before {
+    box-sizing: border-box;
+}
